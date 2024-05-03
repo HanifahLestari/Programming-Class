@@ -31,8 +31,6 @@ const umur = 32
 console.log(umur * 2); //operasi mtk
 
 
-
-
 //boolean
 const sudahMenikah = true
 //array, dia memiliki 3 isian berupa beberapa string, isinya bisa number, boolean, angka, array atau object, bisa di combined
