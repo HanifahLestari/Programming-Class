@@ -1,0 +1,19 @@
+{
+  "name": "jubelio-sesi-1-prog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^5.3.0",
+    "fastify": "^4.28.0",
+    "moment": "^2.30.1",
+    "ongkir": "^0.0.5",
+    "pg-promise": "^11.8.0"
+  }
+}

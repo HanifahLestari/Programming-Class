@@ -1,5 +1,7 @@
+//PERTEMUAN KEDUA = VARIABEL
+
 // let angkaGanjil = 1;
-// var angka1; --> ini tidak direkomendasikan karna cara lama, tidak bisa ubah isinya
+// var angka1; //--> ini tidak direkomendasikan karna cara lama, tidak bisa ubah isinya
 // let angka2; //ini bisa ubah isinya
 // const angka3;
 
@@ -8,11 +10,11 @@
 // let angkakesatu = 1;
 
 // if (true) { //ini sabtu blok
-   // let angkakedua = 2;
-    //console.log('isi',angkakedua);
-//}
+//    let angkakedua = 2;
+//     console.log('isi',angkakedua);
+// }
 
-//console.log('isi:', angkakesatu);
+console.log('isi:', angkakesatu);
 
 // const angka = 1;
 // console.log(angka);
@@ -25,11 +27,9 @@ const namaPelanggan = 'Hanifah'
 console.log(namaPelanggan.toLowerCase()); //ini untuk mengubah jadi kecil semua, tidak berlaku untuk yg number
 
 
-
 //Tipe data number, isinya angka, bisa negatif, bulat, koma,
 const umur = 32
 console.log(umur * 2); //operasi mtk
-
 
 //boolean
 const sudahMenikah = true
@@ -54,4 +54,4 @@ console.log(`Alamat Pelanggan: ${JSON.stringify(alamatPelanggan, null, 2)}`); //
 
 //ini kita buat 5 variabel, pakai const karna gapakai perubahan data
 
-
+//MENJALANKAN PERINTAH : NODE namafile.js
